@@ -24,23 +24,23 @@
           {
             "group": "Ring Modules",
             "pages": [
-              "quickstart",
+              "quickstart_stories",
               {
                 "group": "Stories",
                 "pages": [
-                  "Configuration",
-                  "Details",
-                  "Filters",
-                  "Sorting",
-                  "Add story to list",
-                  "Lock",
-                  "Bulk operation"
+                  "modules/stories/configuration",
+                  "modules/stories/details",
+                  "modules/stories/filters",
+                  "modules/stories/sorting",
+                  "modules/stories/add story to list",
+                  "modules/stories/lock",
+                  "modules/stories/bulk operation"
                 ]
               },
               {
                 "group": "Mutimedia",
                 "pages": [
-                  "quickstart",
+                  "quickstart_multimedia",
                   {
                     "group": "Images",
                     "pages": [
