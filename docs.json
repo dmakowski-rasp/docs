@@ -18,14 +18,17 @@
             "pages": [
               "index",
               "quickstart",
-              "development"
+              "support"
             ]
           },
           {
             "group": "Customization",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "quickstart",
+              {
+                "group": "Nested Reference Pages",
+                "pages": ["nested-reference-page"]
+              }
             ]
           },
           {
