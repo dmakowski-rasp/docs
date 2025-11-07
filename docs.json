@@ -27,6 +27,7 @@
               "quickstart_stories",
               {
                 "group": "Stories",
+                "icon": "newspaper",
                 "pages": [
                   "modules/stories/configuration",
                   "modules/stories/details",
@@ -39,6 +40,7 @@
               },
               {
                 "group": "Mutimedia",
+                "icon": "image-music",
                 "pages": [
                   "quickstart_multimedia",
                   {
@@ -52,6 +54,7 @@
                   },
                   {
                     "group": "Videos",
+                    "icon": "video",
                     "pages": [
                       "...",
                       "...",
@@ -60,6 +63,7 @@
                   },
                   {
                     "group": "Audio",
+                    "icon": "microphone",
                     "pages": [
                       "...",
                       "...",
