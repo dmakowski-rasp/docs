@@ -41,7 +41,6 @@
                 "group": "Mutimedia",
                 "icon": "image-music",
                 "pages": [
-                  "quickstart_multimedia",
                   {
                     "group": "Images",
                     "icon": "images",
