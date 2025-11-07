@@ -43,6 +43,7 @@
                   "quickstart_multimedia",
                   {
                     "group": "Images",
+                    "icon": "images",
                     "pages": [
                       "...",
                       "...",
