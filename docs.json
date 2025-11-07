@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Help documentation",
         "groups": [
           {
             "group": "Getting started",
@@ -111,7 +111,7 @@
     }
   },
   "logo": {
-    "light": "/logo/ringpublishing_logo_color_black.svg",
+    "light": "/logo/ringpublishing_logo_color_white.svg",
     "dark": "/logo/ringpublishing_logo_color_white.svg"
   },
   "navbar": {
