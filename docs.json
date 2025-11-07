@@ -84,8 +84,8 @@
     }
   },
   "logo": {
-    "light": "/logo/logo.png",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/ringpublishing_logo_color_black.svg",
+    "dark": "/logo/ringpublishing_logo_color_white.svg"
   },
   "navbar": {
     "links": [
