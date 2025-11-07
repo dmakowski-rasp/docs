@@ -22,12 +22,50 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Ring Modules",
             "pages": [
               "quickstart",
               {
-                "group": "Nested Reference Pages",
-                "pages": ["nested-reference-page"]
+                "group": "Stories",
+                "pages": [
+                  "Configuration",
+                  "Details",
+                  "Filters",
+                  "Sorting",
+                  "Add story to list",
+                  "Lock",
+                  "Bulk operation"
+                ]
+              },
+              {
+                "group": "Mutimedia",
+                "pages": [
+                  "quickstart",
+                  {
+                    "group": "Images",
+                    "pages": [
+                      "...",
+                      "...",
+                      "..."
+                    ]
+                  },
+                  {
+                    "group": "Videos",
+                    "pages": [
+                      "...",
+                      "...",
+                      "..."
+                    ]
+                  },
+                  {
+                    "group": "Audio",
+                    "pages": [
+                      "...",
+                      "...",
+                      "..."
+                    ]
+                  }
+                ]
               }
             ]
           },
